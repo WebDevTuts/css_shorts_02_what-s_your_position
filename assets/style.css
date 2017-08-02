@@ -106,6 +106,7 @@ aside a::after {
 
   article { padding-right: 25px }
   aside { position: relative; top: auto; right: auto; }
+  aside a { position: static; }
 
 }
 
