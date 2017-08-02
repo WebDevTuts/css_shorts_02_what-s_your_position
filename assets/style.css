@@ -48,7 +48,8 @@ aside {
 	padding: 15px 10px 20px 45px;
 	background-color: #233e72;
 	color: #fff;
-	border-radius: 10px;
+  border-radius: 10px;
+  position: relative;
 }
 
 aside img {
