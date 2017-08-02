@@ -62,7 +62,8 @@ aside h3 {
 	font-size: 1.5em;
 	font-weight: 700;
 	line-height: 1.2em;
-	margin: 0 0 10px 0;
+  margin: 0 0 10px 0;
+  position: relative;
 }
 
 aside p {
