@@ -104,7 +104,8 @@ aside a::after {
 
 @media screen and (max-width: 540px) {
 
-
+  article { padding-right: 25px }
+  aside { position: relative; top: auto; right: auto; }
 
 }
 
